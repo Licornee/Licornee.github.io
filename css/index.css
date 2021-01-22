@@ -4251,7 +4251,7 @@ _:future,
   z-index: 22;
 }
 #waline-wrap textarea {
-  background: url("/image/comment_bg.png") 100% 100% no-repeat;
+  background: url("/img/comments.jpg") 100% 100% no-repeat;
 }
 .fireworks {
   position: fixed;
